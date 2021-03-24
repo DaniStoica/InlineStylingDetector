@@ -17,9 +17,13 @@ In order to be able to see the results from output file, you must download Dx-Pl
 
 You can download or clone our project from Github
 
+```console
+git clone ...
+```
+
 ..or Docker
 
-
+https://hub.docker.com/r/danistoica/inlinestyledetector
 
 # How To Use It
 
