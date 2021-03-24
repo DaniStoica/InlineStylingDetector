@@ -25,6 +25,7 @@ You can download or clone our project from Github
 
 1. Copy the "parser.py" and "inline-style-detector.sh/bat" files to **the same directory as the project directory**.
 For example:
+____
 ![example](https://user-images.githubusercontent.com/48685393/112371832-bc55b680-8ce7-11eb-8171-ff3db919eebe.png)
 
 2. Run inline-style-detector.sh/bat 
@@ -32,6 +33,7 @@ For example:
 4. Your result.json file will be generated in the same folder
 
 Output file structure:
+____
 ![json](https://user-images.githubusercontent.com/48685393/112372627-b2808300-8ce8-11eb-8c47-30c906c81d2f.png)
 
 **Make sure your project has .html files to avoid generating an empty json file**
