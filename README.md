@@ -35,3 +35,7 @@ Output file structure:
 ![json](https://user-images.githubusercontent.com/48685393/112372627-b2808300-8ce8-11eb-8c47-30c906c81d2f.png)
 
 **Make sure your project has .html files to avoid generating an empty json file**
+
+# License 
+
+Distributed under the Apache License 2.0
