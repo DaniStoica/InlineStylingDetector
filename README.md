@@ -18,7 +18,7 @@ In order to be able to see the results from output file, you must download Dx-Pl
 You can download or clone our project from Github
 
 ```console
-git clone ...
+git clone https://github.com/DaniStoica/InlineStylingDetector
 ```
 
 ..or Docker
